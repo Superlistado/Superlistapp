@@ -1,3 +1,3 @@
 # Superlistapp
-Es un simulador de compras el cual le ofrece al usuario un amplio catalogo de productos de supermercado.
-Ahorrándole tiempo y a la vez informandole acerca de los productos.
+Simulador de compras el cual ofrece al usuario un amplio catalogo digital de alimentos y productos de necesidades basicas.
+Ahorrándole tiempo, facilitandole ideas sobre que comprar y a la vez informándole acerca de ofertas y novedadaes. 
